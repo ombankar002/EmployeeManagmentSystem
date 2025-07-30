@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "${SPRING_DATASOURCE_URL}",
+    "type": "java.lang.String",
+    "description": "A description for '${SPRING_DATASOURCE_URL}'"
+  },
+  {
+    "name": "${SPRING_DATASOURCE_URL}",
+    "type": "java.lang.String",
+    "description": "A description for '${SPRING_DATASOURCE_URL}'"
+  },
+  {
+    "name": "${SPRING_DATASOURCE_PASSWORD}",
+    "type": "java.lang.String",
+    "description": "A description for '${SPRING_DATASOURCE_PASSWORD}'"
+  },
+  {
+    "name": "${SPRING_DATASOURCE_USERNAME}",
+    "type": "java.lang.String",
+    "description": "A description for '${SPRING_DATASOURCE_USERNAME}'"
+  },
+  {
+    "name": "${SPRING_DATASOURCE_PASSWORD}",
+    "type": "java.lang.String",
+    "description": "A description for '${SPRING_DATASOURCE_PASSWORD}'"
+  }
+]}
